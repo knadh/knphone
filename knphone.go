@@ -19,9 +19,9 @@
 // knphone was created to aid spelling tolerant Kannada word search, but may
 // be useful in tasks like spell checking, word suggestion etc.
 //
-// This is based on mlphone (https://github.com/knadh/mlphone/) for Malayalam.
+// This is based on MLphone (https://github.com/knadh/mlphone/) for Malayalam.
 //
-// Kailash Nadh (c) 2019. https://nadh.in
+// Kailash Nadh (c) 2019. https://nadh.in | License: GPLv3
 package knphone
 
 import (
